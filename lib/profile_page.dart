@@ -156,6 +156,10 @@ class profilePage extends StatelessWidget {
                   onPressed: () {},
                   icon: Icon(Icons.notifications, color: Colors.white),
                   iconSize: 30),
+              IconButton(
+                  onPressed: () {},
+                  icon: Icon(Icons.face_3, color: Colors.white),
+                  iconSize: 30),
               Stack(
                 alignment: Alignment.center,
                 children: [
